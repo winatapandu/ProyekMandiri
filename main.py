@@ -49,6 +49,7 @@ def main():
             print(teks)
             fileio.tulis_laporan(FILE_LAPORAN, teks)
         elif pilihan == "0":
+            print("Keluar")
             break
         else:
             print("  Pilihan tidak valid.")
