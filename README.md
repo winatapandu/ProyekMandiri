@@ -1,1 +1,1 @@
-# ProyekMandiri
+Program Pencatat Pengeluaran Harian dibuat untuk membantu pengguna mencatat pengeluaran, menyimpannya secara permanen ke dalam file, lalu menganalisisnya menjadi laporan yang mudah dibaca. Data yang dikelola pada program ini terdapat keterangan nama pengeluaran, kategori pengeluaran, dan jumlah harga pengeluaran. Adapun menu yang dimiliki program ini, yaitu tambah, tampilkan, urutkan, laporan, dan keluar dari program.
